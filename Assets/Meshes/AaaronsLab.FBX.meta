@@ -1,0 +1,1085 @@
+fileFormatVersion: 2
+guid: 95a40a7219b4f26468cbfaabb8ad0e8c
+timeCreated: 1475220988
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Circle.001
+    100004: Cylinder
+    100006: Cylinder.001
+    100008: Cylinder.002
+    100010: Cylinder.003
+    100012: Cylinder.004
+    100014: Cylinder.005
+    100016: Cylinder.006
+    100018: Cylinder.007
+    100020: Cylinder.008
+    100022: Cylinder.009
+    100024: Cylinder.010
+    100026: Cylinder.011
+    100028: Layer0_001
+    100030: Layer0_001.001
+    100032: Layer0_001.002
+    100034: Plane003
+    100036: Plane003.001
+    100038: Plane003.002
+    100040: robotic_arm Baza_chwytaka
+    100042: robotic_arm Baza_chwytaka.001
+    100044: robotic_arm Baza_chwytaka.002
+    100046: robotic_arm Baza_chwytaka.003
+    100048: robotic_arm Baza_chwytaka.004
+    100050: robotic_arm Baza_chwytaka.005
+    100052: robotic_arm cable Walec
+    100054: robotic_arm cable Walec.001
+    100056: robotic_arm cable Walec.002
+    100058: robotic_arm cable Walec.003
+    100060: robotic_arm cable Walec.004
+    100062: robotic_arm cable Walec.005
+    100064: robotic_arm Podstawa_nieruchoma.001
+    100066: robotic_arm Podstawa_nieruchoma.001_MeshPart0
+    100068: robotic_arm Podstawa_nieruchoma.001_MeshPart1
+    100070: robotic_arm Podstawa_nieruchoma.001_MeshPart2
+    100072: robotic_arm Podstawa_nieruchoma.001_MeshPart3
+    100074: robotic_arm Podstawa_nieruchoma.001_MeshPart4
+    100076: robotic_arm Podstawa_nieruchoma.002
+    100078: robotic_arm Podstawa_nieruchoma.002_MeshPart0
+    100080: robotic_arm Podstawa_nieruchoma.002_MeshPart1
+    100082: robotic_arm Podstawa_nieruchoma.002_MeshPart2
+    100084: robotic_arm Podstawa_nieruchoma.002_MeshPart3
+    100086: robotic_arm Podstawa_nieruchoma.002_MeshPart4
+    100088: robotic_arm Podstawa_nieruchoma.003
+    100090: robotic_arm Podstawa_nieruchoma.003_MeshPart0
+    100092: robotic_arm Podstawa_nieruchoma.003_MeshPart1
+    100094: robotic_arm Podstawa_nieruchoma.003_MeshPart2
+    100096: robotic_arm Podstawa_nieruchoma.003_MeshPart3
+    100098: robotic_arm Podstawa_nieruchoma.003_MeshPart4
+    100100: robotic_arm Podstawa_ruchoma
+    100102: robotic_arm Podstawa_ruchoma.001
+    100104: robotic_arm Podstawa_ruchoma.001_MeshPart0
+    100106: robotic_arm Podstawa_ruchoma.001_MeshPart1
+    100108: robotic_arm Podstawa_ruchoma.001_MeshPart10
+    100110: robotic_arm Podstawa_ruchoma.001_MeshPart11
+    100112: robotic_arm Podstawa_ruchoma.001_MeshPart2
+    100114: robotic_arm Podstawa_ruchoma.001_MeshPart3
+    100116: robotic_arm Podstawa_ruchoma.001_MeshPart4
+    100118: robotic_arm Podstawa_ruchoma.001_MeshPart5
+    100120: robotic_arm Podstawa_ruchoma.001_MeshPart6
+    100122: robotic_arm Podstawa_ruchoma.001_MeshPart7
+    100124: robotic_arm Podstawa_ruchoma.001_MeshPart8
+    100126: robotic_arm Podstawa_ruchoma.001_MeshPart9
+    100128: robotic_arm Podstawa_ruchoma.002
+    100130: robotic_arm Podstawa_ruchoma.002_MeshPart0
+    100132: robotic_arm Podstawa_ruchoma.002_MeshPart1
+    100134: robotic_arm Podstawa_ruchoma.002_MeshPart10
+    100136: robotic_arm Podstawa_ruchoma.002_MeshPart11
+    100138: robotic_arm Podstawa_ruchoma.002_MeshPart2
+    100140: robotic_arm Podstawa_ruchoma.002_MeshPart3
+    100142: robotic_arm Podstawa_ruchoma.002_MeshPart4
+    100144: robotic_arm Podstawa_ruchoma.002_MeshPart5
+    100146: robotic_arm Podstawa_ruchoma.002_MeshPart6
+    100148: robotic_arm Podstawa_ruchoma.002_MeshPart7
+    100150: robotic_arm Podstawa_ruchoma.002_MeshPart8
+    100152: robotic_arm Podstawa_ruchoma.002_MeshPart9
+    100154: robotic_arm Podstawa_ruchoma.003
+    100156: robotic_arm Podstawa_ruchoma.003_MeshPart0
+    100158: robotic_arm Podstawa_ruchoma.003_MeshPart1
+    100160: robotic_arm Podstawa_ruchoma.003_MeshPart10
+    100162: robotic_arm Podstawa_ruchoma.003_MeshPart11
+    100164: robotic_arm Podstawa_ruchoma.003_MeshPart2
+    100166: robotic_arm Podstawa_ruchoma.003_MeshPart3
+    100168: robotic_arm Podstawa_ruchoma.003_MeshPart4
+    100170: robotic_arm Podstawa_ruchoma.003_MeshPart5
+    100172: robotic_arm Podstawa_ruchoma.003_MeshPart6
+    100174: robotic_arm Podstawa_ruchoma.003_MeshPart7
+    100176: robotic_arm Podstawa_ruchoma.003_MeshPart8
+    100178: robotic_arm Podstawa_ruchoma.003_MeshPart9
+    100180: robotic_arm Podstawa_ruchoma.004
+    100182: robotic_arm Podstawa_ruchoma.004_MeshPart0
+    100184: robotic_arm Podstawa_ruchoma.004_MeshPart1
+    100186: robotic_arm Podstawa_ruchoma.004_MeshPart10
+    100188: robotic_arm Podstawa_ruchoma.004_MeshPart11
+    100190: robotic_arm Podstawa_ruchoma.004_MeshPart2
+    100192: robotic_arm Podstawa_ruchoma.004_MeshPart3
+    100194: robotic_arm Podstawa_ruchoma.004_MeshPart4
+    100196: robotic_arm Podstawa_ruchoma.004_MeshPart5
+    100198: robotic_arm Podstawa_ruchoma.004_MeshPart6
+    100200: robotic_arm Podstawa_ruchoma.004_MeshPart7
+    100202: robotic_arm Podstawa_ruchoma.004_MeshPart8
+    100204: robotic_arm Podstawa_ruchoma.004_MeshPart9
+    100206: robotic_arm Podstawa_ruchoma.005
+    100208: robotic_arm Podstawa_ruchoma.005_MeshPart0
+    100210: robotic_arm Podstawa_ruchoma.005_MeshPart1
+    100212: robotic_arm Podstawa_ruchoma.005_MeshPart10
+    100214: robotic_arm Podstawa_ruchoma.005_MeshPart11
+    100216: robotic_arm Podstawa_ruchoma.005_MeshPart2
+    100218: robotic_arm Podstawa_ruchoma.005_MeshPart3
+    100220: robotic_arm Podstawa_ruchoma.005_MeshPart4
+    100222: robotic_arm Podstawa_ruchoma.005_MeshPart5
+    100224: robotic_arm Podstawa_ruchoma.005_MeshPart6
+    100226: robotic_arm Podstawa_ruchoma.005_MeshPart7
+    100228: robotic_arm Podstawa_ruchoma.005_MeshPart8
+    100230: robotic_arm Podstawa_ruchoma.005_MeshPart9
+    100232: robotic_arm Podstawa_ruchoma_MeshPart0
+    100234: robotic_arm Podstawa_ruchoma_MeshPart1
+    100236: robotic_arm Podstawa_ruchoma_MeshPart10
+    100238: robotic_arm Podstawa_ruchoma_MeshPart11
+    100240: robotic_arm Podstawa_ruchoma_MeshPart2
+    100242: robotic_arm Podstawa_ruchoma_MeshPart3
+    100244: robotic_arm Podstawa_ruchoma_MeshPart4
+    100246: robotic_arm Podstawa_ruchoma_MeshPart5
+    100248: robotic_arm Podstawa_ruchoma_MeshPart6
+    100250: robotic_arm Podstawa_ruchoma_MeshPart7
+    100252: robotic_arm Podstawa_ruchoma_MeshPart8
+    100254: robotic_arm Podstawa_ruchoma_MeshPart9
+    100256: robotic_arm Rami__chwytaka_L
+    100258: robotic_arm Rami__chwytaka_L.001
+    100260: robotic_arm Rami__chwytaka_L.002
+    100262: robotic_arm Rami__chwytaka_L.003
+    100264: robotic_arm Rami__chwytaka_L.004
+    100266: robotic_arm Rami__chwytaka_L.005
+    100268: robotic_arm Rami__chwytaka_R
+    100270: robotic_arm Rami__chwytaka_R.001
+    100272: robotic_arm Rami__chwytaka_R.002
+    100274: robotic_arm Rami__chwytaka_R.003
+    100276: robotic_arm Rami__chwytaka_R.004
+    100278: robotic_arm Rami__chwytaka_R.005
+    100280: robotic_arm Ramiona_dolne Rami__DL1
+    100282: robotic_arm Ramiona_dolne Rami__DL1.001
+    100284: robotic_arm Ramiona_dolne Rami__DL1.002
+    100286: robotic_arm Ramiona_dolne Rami__DL1.003
+    100288: robotic_arm Ramiona_dolne Rami__DL1.004
+    100290: robotic_arm Ramiona_dolne Rami__DL1.005
+    100292: robotic_arm Ramiona_dolne Rami__DR1
+    100294: robotic_arm Ramiona_dolne Rami__DR1.001
+    100296: robotic_arm Ramiona_dolne Rami__DR1.002
+    100298: robotic_arm Ramiona_dolne Rami__DR1.003
+    100300: robotic_arm Ramiona_dolne Rami__DR1.004
+    100302: robotic_arm Ramiona_dolne Rami__DR1.005
+    100304: robotic_arm Ramiona_G_rne Rami__DL
+    100306: robotic_arm Ramiona_G_rne Rami__DL.001
+    100308: robotic_arm Ramiona_G_rne Rami__DL.002
+    100310: robotic_arm Ramiona_G_rne Rami__DL.003
+    100312: robotic_arm Ramiona_G_rne Rami__DL.004
+    100314: robotic_arm Ramiona_G_rne Rami__DL.005
+    100316: robotic_arm Ramiona_G_rne Rami__DR
+    100318: robotic_arm Ramiona_G_rne Rami__DR.001
+    100320: robotic_arm Ramiona_G_rne Rami__DR.002
+    100322: robotic_arm Ramiona_G_rne Rami__DR.003
+    100324: robotic_arm Ramiona_G_rne Rami__DR.004
+    100326: robotic_arm Ramiona_G_rne Rami__DR.005
+    100328: robotic_arm Silnik1_1
+    100330: robotic_arm Silnik1_1.001
+    100332: robotic_arm Silnik1_1.002
+    100334: robotic_arm Silnik1_1.003
+    100336: robotic_arm Silnik1_1.004
+    100338: robotic_arm Silnik1_1.005
+    100340: robotic_arm Silnik2
+    100342: robotic_arm Silnik2.001
+    100344: robotic_arm Silnik2.002
+    100346: robotic_arm Silnik2.003
+    100348: robotic_arm Silnik2.004
+    100350: robotic_arm Silnik2.005
+    100352: robotic_arm Silnik2_1
+    100354: robotic_arm Silnik2_1.001
+    100356: robotic_arm Silnik2_1.002
+    100358: robotic_arm Silnik2_1.003
+    100360: robotic_arm Silnik2_1.004
+    100362: robotic_arm Silnik2_1.005
+    100364: robotic_arm Silnik3
+    100366: robotic_arm Silnik3.001
+    100368: robotic_arm Silnik3.001_MeshPart0
+    100370: robotic_arm Silnik3.001_MeshPart1
+    100372: robotic_arm Silnik3.002
+    100374: robotic_arm Silnik3.002_MeshPart0
+    100376: robotic_arm Silnik3.002_MeshPart1
+    100378: robotic_arm Silnik3.003
+    100380: robotic_arm Silnik3.003_MeshPart0
+    100382: robotic_arm Silnik3.003_MeshPart1
+    100384: robotic_arm Silnik3.004
+    100386: robotic_arm Silnik3.004_MeshPart0
+    100388: robotic_arm Silnik3.004_MeshPart1
+    100390: robotic_arm Silnik3.005
+    100392: robotic_arm Silnik3.005_MeshPart0
+    100394: robotic_arm Silnik3.005_MeshPart1
+    100396: robotic_arm Silnik3_MeshPart0
+    100398: robotic_arm Silnik3_MeshPart1
+    100400: robotic_arm Wa__ramion_DG
+    100402: robotic_arm Wa__ramion_DG.001
+    100404: robotic_arm Wa__ramion_DG.002
+    100406: robotic_arm Wa__ramion_DG.003
+    100408: robotic_arm Wa__ramion_DG.004
+    100410: robotic_arm Wa__ramion_DG.005
+    100412: robotic_arm Wa__ramion_DG.006
+    100414: robotic_arm Wa__ramion_DG.007
+    100416: robotic_arm Wa__ramion_DG.008
+    100418: robotic_arm Wa__ramion_DG.009
+    100420: robotic_arm Wa__ramion_DG.010
+    100422: robotic_arm Wa__ramion_DG.011
+    400000: //RootNode
+    400002: Circle.001
+    400004: Cylinder
+    400006: Cylinder.001
+    400008: Cylinder.002
+    400010: Cylinder.003
+    400012: Cylinder.004
+    400014: Cylinder.005
+    400016: Cylinder.006
+    400018: Cylinder.007
+    400020: Cylinder.008
+    400022: Cylinder.009
+    400024: Cylinder.010
+    400026: Cylinder.011
+    400028: Layer0_001
+    400030: Layer0_001.001
+    400032: Layer0_001.002
+    400034: Plane003
+    400036: Plane003.001
+    400038: Plane003.002
+    400040: robotic_arm Baza_chwytaka
+    400042: robotic_arm Baza_chwytaka.001
+    400044: robotic_arm Baza_chwytaka.002
+    400046: robotic_arm Baza_chwytaka.003
+    400048: robotic_arm Baza_chwytaka.004
+    400050: robotic_arm Baza_chwytaka.005
+    400052: robotic_arm cable Walec
+    400054: robotic_arm cable Walec.001
+    400056: robotic_arm cable Walec.002
+    400058: robotic_arm cable Walec.003
+    400060: robotic_arm cable Walec.004
+    400062: robotic_arm cable Walec.005
+    400064: robotic_arm Podstawa_nieruchoma.001
+    400066: robotic_arm Podstawa_nieruchoma.001_MeshPart0
+    400068: robotic_arm Podstawa_nieruchoma.001_MeshPart1
+    400070: robotic_arm Podstawa_nieruchoma.001_MeshPart2
+    400072: robotic_arm Podstawa_nieruchoma.001_MeshPart3
+    400074: robotic_arm Podstawa_nieruchoma.001_MeshPart4
+    400076: robotic_arm Podstawa_nieruchoma.002
+    400078: robotic_arm Podstawa_nieruchoma.002_MeshPart0
+    400080: robotic_arm Podstawa_nieruchoma.002_MeshPart1
+    400082: robotic_arm Podstawa_nieruchoma.002_MeshPart2
+    400084: robotic_arm Podstawa_nieruchoma.002_MeshPart3
+    400086: robotic_arm Podstawa_nieruchoma.002_MeshPart4
+    400088: robotic_arm Podstawa_nieruchoma.003
+    400090: robotic_arm Podstawa_nieruchoma.003_MeshPart0
+    400092: robotic_arm Podstawa_nieruchoma.003_MeshPart1
+    400094: robotic_arm Podstawa_nieruchoma.003_MeshPart2
+    400096: robotic_arm Podstawa_nieruchoma.003_MeshPart3
+    400098: robotic_arm Podstawa_nieruchoma.003_MeshPart4
+    400100: robotic_arm Podstawa_ruchoma
+    400102: robotic_arm Podstawa_ruchoma.001
+    400104: robotic_arm Podstawa_ruchoma.001_MeshPart0
+    400106: robotic_arm Podstawa_ruchoma.001_MeshPart1
+    400108: robotic_arm Podstawa_ruchoma.001_MeshPart10
+    400110: robotic_arm Podstawa_ruchoma.001_MeshPart11
+    400112: robotic_arm Podstawa_ruchoma.001_MeshPart2
+    400114: robotic_arm Podstawa_ruchoma.001_MeshPart3
+    400116: robotic_arm Podstawa_ruchoma.001_MeshPart4
+    400118: robotic_arm Podstawa_ruchoma.001_MeshPart5
+    400120: robotic_arm Podstawa_ruchoma.001_MeshPart6
+    400122: robotic_arm Podstawa_ruchoma.001_MeshPart7
+    400124: robotic_arm Podstawa_ruchoma.001_MeshPart8
+    400126: robotic_arm Podstawa_ruchoma.001_MeshPart9
+    400128: robotic_arm Podstawa_ruchoma.002
+    400130: robotic_arm Podstawa_ruchoma.002_MeshPart0
+    400132: robotic_arm Podstawa_ruchoma.002_MeshPart1
+    400134: robotic_arm Podstawa_ruchoma.002_MeshPart10
+    400136: robotic_arm Podstawa_ruchoma.002_MeshPart11
+    400138: robotic_arm Podstawa_ruchoma.002_MeshPart2
+    400140: robotic_arm Podstawa_ruchoma.002_MeshPart3
+    400142: robotic_arm Podstawa_ruchoma.002_MeshPart4
+    400144: robotic_arm Podstawa_ruchoma.002_MeshPart5
+    400146: robotic_arm Podstawa_ruchoma.002_MeshPart6
+    400148: robotic_arm Podstawa_ruchoma.002_MeshPart7
+    400150: robotic_arm Podstawa_ruchoma.002_MeshPart8
+    400152: robotic_arm Podstawa_ruchoma.002_MeshPart9
+    400154: robotic_arm Podstawa_ruchoma.003
+    400156: robotic_arm Podstawa_ruchoma.003_MeshPart0
+    400158: robotic_arm Podstawa_ruchoma.003_MeshPart1
+    400160: robotic_arm Podstawa_ruchoma.003_MeshPart10
+    400162: robotic_arm Podstawa_ruchoma.003_MeshPart11
+    400164: robotic_arm Podstawa_ruchoma.003_MeshPart2
+    400166: robotic_arm Podstawa_ruchoma.003_MeshPart3
+    400168: robotic_arm Podstawa_ruchoma.003_MeshPart4
+    400170: robotic_arm Podstawa_ruchoma.003_MeshPart5
+    400172: robotic_arm Podstawa_ruchoma.003_MeshPart6
+    400174: robotic_arm Podstawa_ruchoma.003_MeshPart7
+    400176: robotic_arm Podstawa_ruchoma.003_MeshPart8
+    400178: robotic_arm Podstawa_ruchoma.003_MeshPart9
+    400180: robotic_arm Podstawa_ruchoma.004
+    400182: robotic_arm Podstawa_ruchoma.004_MeshPart0
+    400184: robotic_arm Podstawa_ruchoma.004_MeshPart1
+    400186: robotic_arm Podstawa_ruchoma.004_MeshPart10
+    400188: robotic_arm Podstawa_ruchoma.004_MeshPart11
+    400190: robotic_arm Podstawa_ruchoma.004_MeshPart2
+    400192: robotic_arm Podstawa_ruchoma.004_MeshPart3
+    400194: robotic_arm Podstawa_ruchoma.004_MeshPart4
+    400196: robotic_arm Podstawa_ruchoma.004_MeshPart5
+    400198: robotic_arm Podstawa_ruchoma.004_MeshPart6
+    400200: robotic_arm Podstawa_ruchoma.004_MeshPart7
+    400202: robotic_arm Podstawa_ruchoma.004_MeshPart8
+    400204: robotic_arm Podstawa_ruchoma.004_MeshPart9
+    400206: robotic_arm Podstawa_ruchoma.005
+    400208: robotic_arm Podstawa_ruchoma.005_MeshPart0
+    400210: robotic_arm Podstawa_ruchoma.005_MeshPart1
+    400212: robotic_arm Podstawa_ruchoma.005_MeshPart10
+    400214: robotic_arm Podstawa_ruchoma.005_MeshPart11
+    400216: robotic_arm Podstawa_ruchoma.005_MeshPart2
+    400218: robotic_arm Podstawa_ruchoma.005_MeshPart3
+    400220: robotic_arm Podstawa_ruchoma.005_MeshPart4
+    400222: robotic_arm Podstawa_ruchoma.005_MeshPart5
+    400224: robotic_arm Podstawa_ruchoma.005_MeshPart6
+    400226: robotic_arm Podstawa_ruchoma.005_MeshPart7
+    400228: robotic_arm Podstawa_ruchoma.005_MeshPart8
+    400230: robotic_arm Podstawa_ruchoma.005_MeshPart9
+    400232: robotic_arm Podstawa_ruchoma_MeshPart0
+    400234: robotic_arm Podstawa_ruchoma_MeshPart1
+    400236: robotic_arm Podstawa_ruchoma_MeshPart10
+    400238: robotic_arm Podstawa_ruchoma_MeshPart11
+    400240: robotic_arm Podstawa_ruchoma_MeshPart2
+    400242: robotic_arm Podstawa_ruchoma_MeshPart3
+    400244: robotic_arm Podstawa_ruchoma_MeshPart4
+    400246: robotic_arm Podstawa_ruchoma_MeshPart5
+    400248: robotic_arm Podstawa_ruchoma_MeshPart6
+    400250: robotic_arm Podstawa_ruchoma_MeshPart7
+    400252: robotic_arm Podstawa_ruchoma_MeshPart8
+    400254: robotic_arm Podstawa_ruchoma_MeshPart9
+    400256: robotic_arm Rami__chwytaka_L
+    400258: robotic_arm Rami__chwytaka_L.001
+    400260: robotic_arm Rami__chwytaka_L.002
+    400262: robotic_arm Rami__chwytaka_L.003
+    400264: robotic_arm Rami__chwytaka_L.004
+    400266: robotic_arm Rami__chwytaka_L.005
+    400268: robotic_arm Rami__chwytaka_R
+    400270: robotic_arm Rami__chwytaka_R.001
+    400272: robotic_arm Rami__chwytaka_R.002
+    400274: robotic_arm Rami__chwytaka_R.003
+    400276: robotic_arm Rami__chwytaka_R.004
+    400278: robotic_arm Rami__chwytaka_R.005
+    400280: robotic_arm Ramiona_dolne Rami__DL1
+    400282: robotic_arm Ramiona_dolne Rami__DL1.001
+    400284: robotic_arm Ramiona_dolne Rami__DL1.002
+    400286: robotic_arm Ramiona_dolne Rami__DL1.003
+    400288: robotic_arm Ramiona_dolne Rami__DL1.004
+    400290: robotic_arm Ramiona_dolne Rami__DL1.005
+    400292: robotic_arm Ramiona_dolne Rami__DR1
+    400294: robotic_arm Ramiona_dolne Rami__DR1.001
+    400296: robotic_arm Ramiona_dolne Rami__DR1.002
+    400298: robotic_arm Ramiona_dolne Rami__DR1.003
+    400300: robotic_arm Ramiona_dolne Rami__DR1.004
+    400302: robotic_arm Ramiona_dolne Rami__DR1.005
+    400304: robotic_arm Ramiona_G_rne Rami__DL
+    400306: robotic_arm Ramiona_G_rne Rami__DL.001
+    400308: robotic_arm Ramiona_G_rne Rami__DL.002
+    400310: robotic_arm Ramiona_G_rne Rami__DL.003
+    400312: robotic_arm Ramiona_G_rne Rami__DL.004
+    400314: robotic_arm Ramiona_G_rne Rami__DL.005
+    400316: robotic_arm Ramiona_G_rne Rami__DR
+    400318: robotic_arm Ramiona_G_rne Rami__DR.001
+    400320: robotic_arm Ramiona_G_rne Rami__DR.002
+    400322: robotic_arm Ramiona_G_rne Rami__DR.003
+    400324: robotic_arm Ramiona_G_rne Rami__DR.004
+    400326: robotic_arm Ramiona_G_rne Rami__DR.005
+    400328: robotic_arm Silnik1_1
+    400330: robotic_arm Silnik1_1.001
+    400332: robotic_arm Silnik1_1.002
+    400334: robotic_arm Silnik1_1.003
+    400336: robotic_arm Silnik1_1.004
+    400338: robotic_arm Silnik1_1.005
+    400340: robotic_arm Silnik2
+    400342: robotic_arm Silnik2.001
+    400344: robotic_arm Silnik2.002
+    400346: robotic_arm Silnik2.003
+    400348: robotic_arm Silnik2.004
+    400350: robotic_arm Silnik2.005
+    400352: robotic_arm Silnik2_1
+    400354: robotic_arm Silnik2_1.001
+    400356: robotic_arm Silnik2_1.002
+    400358: robotic_arm Silnik2_1.003
+    400360: robotic_arm Silnik2_1.004
+    400362: robotic_arm Silnik2_1.005
+    400364: robotic_arm Silnik3
+    400366: robotic_arm Silnik3.001
+    400368: robotic_arm Silnik3.001_MeshPart0
+    400370: robotic_arm Silnik3.001_MeshPart1
+    400372: robotic_arm Silnik3.002
+    400374: robotic_arm Silnik3.002_MeshPart0
+    400376: robotic_arm Silnik3.002_MeshPart1
+    400378: robotic_arm Silnik3.003
+    400380: robotic_arm Silnik3.003_MeshPart0
+    400382: robotic_arm Silnik3.003_MeshPart1
+    400384: robotic_arm Silnik3.004
+    400386: robotic_arm Silnik3.004_MeshPart0
+    400388: robotic_arm Silnik3.004_MeshPart1
+    400390: robotic_arm Silnik3.005
+    400392: robotic_arm Silnik3.005_MeshPart0
+    400394: robotic_arm Silnik3.005_MeshPart1
+    400396: robotic_arm Silnik3_MeshPart0
+    400398: robotic_arm Silnik3_MeshPart1
+    400400: robotic_arm Wa__ramion_DG
+    400402: robotic_arm Wa__ramion_DG.001
+    400404: robotic_arm Wa__ramion_DG.002
+    400406: robotic_arm Wa__ramion_DG.003
+    400408: robotic_arm Wa__ramion_DG.004
+    400410: robotic_arm Wa__ramion_DG.005
+    400412: robotic_arm Wa__ramion_DG.006
+    400414: robotic_arm Wa__ramion_DG.007
+    400416: robotic_arm Wa__ramion_DG.008
+    400418: robotic_arm Wa__ramion_DG.009
+    400420: robotic_arm Wa__ramion_DG.010
+    400422: robotic_arm Wa__ramion_DG.011
+    2300000: Circle.001
+    2300002: Cylinder
+    2300004: Cylinder.001
+    2300006: Cylinder.002
+    2300008: Cylinder.003
+    2300010: Cylinder.004
+    2300012: Cylinder.005
+    2300014: Cylinder.006
+    2300016: Cylinder.007
+    2300018: Cylinder.008
+    2300020: Cylinder.009
+    2300022: Cylinder.010
+    2300024: Cylinder.011
+    2300026: Layer0_001
+    2300028: Layer0_001.001
+    2300030: Layer0_001.002
+    2300032: Plane003
+    2300034: Plane003.001
+    2300036: Plane003.002
+    2300038: robotic_arm Baza_chwytaka
+    2300040: robotic_arm Baza_chwytaka.001
+    2300042: robotic_arm Baza_chwytaka.002
+    2300044: robotic_arm Baza_chwytaka.003
+    2300046: robotic_arm Baza_chwytaka.004
+    2300048: robotic_arm Baza_chwytaka.005
+    2300050: robotic_arm cable Walec
+    2300052: robotic_arm cable Walec.001
+    2300054: robotic_arm cable Walec.002
+    2300056: robotic_arm cable Walec.003
+    2300058: robotic_arm cable Walec.004
+    2300060: robotic_arm cable Walec.005
+    2300062: robotic_arm Podstawa_nieruchoma.001_MeshPart0
+    2300064: robotic_arm Podstawa_nieruchoma.001_MeshPart1
+    2300066: robotic_arm Podstawa_nieruchoma.001_MeshPart2
+    2300068: robotic_arm Podstawa_nieruchoma.001_MeshPart3
+    2300070: robotic_arm Podstawa_nieruchoma.001_MeshPart4
+    2300072: robotic_arm Podstawa_nieruchoma.002_MeshPart0
+    2300074: robotic_arm Podstawa_nieruchoma.002_MeshPart1
+    2300076: robotic_arm Podstawa_nieruchoma.002_MeshPart2
+    2300078: robotic_arm Podstawa_nieruchoma.002_MeshPart3
+    2300080: robotic_arm Podstawa_nieruchoma.002_MeshPart4
+    2300082: robotic_arm Podstawa_nieruchoma.003_MeshPart0
+    2300084: robotic_arm Podstawa_nieruchoma.003_MeshPart1
+    2300086: robotic_arm Podstawa_nieruchoma.003_MeshPart2
+    2300088: robotic_arm Podstawa_nieruchoma.003_MeshPart3
+    2300090: robotic_arm Podstawa_nieruchoma.003_MeshPart4
+    2300092: robotic_arm Podstawa_ruchoma.001_MeshPart0
+    2300094: robotic_arm Podstawa_ruchoma.001_MeshPart1
+    2300096: robotic_arm Podstawa_ruchoma.001_MeshPart10
+    2300098: robotic_arm Podstawa_ruchoma.001_MeshPart11
+    2300100: robotic_arm Podstawa_ruchoma.001_MeshPart2
+    2300102: robotic_arm Podstawa_ruchoma.001_MeshPart3
+    2300104: robotic_arm Podstawa_ruchoma.001_MeshPart4
+    2300106: robotic_arm Podstawa_ruchoma.001_MeshPart5
+    2300108: robotic_arm Podstawa_ruchoma.001_MeshPart6
+    2300110: robotic_arm Podstawa_ruchoma.001_MeshPart7
+    2300112: robotic_arm Podstawa_ruchoma.001_MeshPart8
+    2300114: robotic_arm Podstawa_ruchoma.001_MeshPart9
+    2300116: robotic_arm Podstawa_ruchoma.002_MeshPart0
+    2300118: robotic_arm Podstawa_ruchoma.002_MeshPart1
+    2300120: robotic_arm Podstawa_ruchoma.002_MeshPart10
+    2300122: robotic_arm Podstawa_ruchoma.002_MeshPart11
+    2300124: robotic_arm Podstawa_ruchoma.002_MeshPart2
+    2300126: robotic_arm Podstawa_ruchoma.002_MeshPart3
+    2300128: robotic_arm Podstawa_ruchoma.002_MeshPart4
+    2300130: robotic_arm Podstawa_ruchoma.002_MeshPart5
+    2300132: robotic_arm Podstawa_ruchoma.002_MeshPart6
+    2300134: robotic_arm Podstawa_ruchoma.002_MeshPart7
+    2300136: robotic_arm Podstawa_ruchoma.002_MeshPart8
+    2300138: robotic_arm Podstawa_ruchoma.002_MeshPart9
+    2300140: robotic_arm Podstawa_ruchoma.003_MeshPart0
+    2300142: robotic_arm Podstawa_ruchoma.003_MeshPart1
+    2300144: robotic_arm Podstawa_ruchoma.003_MeshPart10
+    2300146: robotic_arm Podstawa_ruchoma.003_MeshPart11
+    2300148: robotic_arm Podstawa_ruchoma.003_MeshPart2
+    2300150: robotic_arm Podstawa_ruchoma.003_MeshPart3
+    2300152: robotic_arm Podstawa_ruchoma.003_MeshPart4
+    2300154: robotic_arm Podstawa_ruchoma.003_MeshPart5
+    2300156: robotic_arm Podstawa_ruchoma.003_MeshPart6
+    2300158: robotic_arm Podstawa_ruchoma.003_MeshPart7
+    2300160: robotic_arm Podstawa_ruchoma.003_MeshPart8
+    2300162: robotic_arm Podstawa_ruchoma.003_MeshPart9
+    2300164: robotic_arm Podstawa_ruchoma.004_MeshPart0
+    2300166: robotic_arm Podstawa_ruchoma.004_MeshPart1
+    2300168: robotic_arm Podstawa_ruchoma.004_MeshPart10
+    2300170: robotic_arm Podstawa_ruchoma.004_MeshPart11
+    2300172: robotic_arm Podstawa_ruchoma.004_MeshPart2
+    2300174: robotic_arm Podstawa_ruchoma.004_MeshPart3
+    2300176: robotic_arm Podstawa_ruchoma.004_MeshPart4
+    2300178: robotic_arm Podstawa_ruchoma.004_MeshPart5
+    2300180: robotic_arm Podstawa_ruchoma.004_MeshPart6
+    2300182: robotic_arm Podstawa_ruchoma.004_MeshPart7
+    2300184: robotic_arm Podstawa_ruchoma.004_MeshPart8
+    2300186: robotic_arm Podstawa_ruchoma.004_MeshPart9
+    2300188: robotic_arm Podstawa_ruchoma.005_MeshPart0
+    2300190: robotic_arm Podstawa_ruchoma.005_MeshPart1
+    2300192: robotic_arm Podstawa_ruchoma.005_MeshPart10
+    2300194: robotic_arm Podstawa_ruchoma.005_MeshPart11
+    2300196: robotic_arm Podstawa_ruchoma.005_MeshPart2
+    2300198: robotic_arm Podstawa_ruchoma.005_MeshPart3
+    2300200: robotic_arm Podstawa_ruchoma.005_MeshPart4
+    2300202: robotic_arm Podstawa_ruchoma.005_MeshPart5
+    2300204: robotic_arm Podstawa_ruchoma.005_MeshPart6
+    2300206: robotic_arm Podstawa_ruchoma.005_MeshPart7
+    2300208: robotic_arm Podstawa_ruchoma.005_MeshPart8
+    2300210: robotic_arm Podstawa_ruchoma.005_MeshPart9
+    2300212: robotic_arm Podstawa_ruchoma_MeshPart0
+    2300214: robotic_arm Podstawa_ruchoma_MeshPart1
+    2300216: robotic_arm Podstawa_ruchoma_MeshPart10
+    2300218: robotic_arm Podstawa_ruchoma_MeshPart11
+    2300220: robotic_arm Podstawa_ruchoma_MeshPart2
+    2300222: robotic_arm Podstawa_ruchoma_MeshPart3
+    2300224: robotic_arm Podstawa_ruchoma_MeshPart4
+    2300226: robotic_arm Podstawa_ruchoma_MeshPart5
+    2300228: robotic_arm Podstawa_ruchoma_MeshPart6
+    2300230: robotic_arm Podstawa_ruchoma_MeshPart7
+    2300232: robotic_arm Podstawa_ruchoma_MeshPart8
+    2300234: robotic_arm Podstawa_ruchoma_MeshPart9
+    2300236: robotic_arm Rami__chwytaka_L
+    2300238: robotic_arm Rami__chwytaka_L.001
+    2300240: robotic_arm Rami__chwytaka_L.002
+    2300242: robotic_arm Rami__chwytaka_L.003
+    2300244: robotic_arm Rami__chwytaka_L.004
+    2300246: robotic_arm Rami__chwytaka_L.005
+    2300248: robotic_arm Rami__chwytaka_R
+    2300250: robotic_arm Rami__chwytaka_R.001
+    2300252: robotic_arm Rami__chwytaka_R.002
+    2300254: robotic_arm Rami__chwytaka_R.003
+    2300256: robotic_arm Rami__chwytaka_R.004
+    2300258: robotic_arm Rami__chwytaka_R.005
+    2300260: robotic_arm Ramiona_dolne Rami__DL1
+    2300262: robotic_arm Ramiona_dolne Rami__DL1.001
+    2300264: robotic_arm Ramiona_dolne Rami__DL1.002
+    2300266: robotic_arm Ramiona_dolne Rami__DL1.003
+    2300268: robotic_arm Ramiona_dolne Rami__DL1.004
+    2300270: robotic_arm Ramiona_dolne Rami__DL1.005
+    2300272: robotic_arm Ramiona_dolne Rami__DR1
+    2300274: robotic_arm Ramiona_dolne Rami__DR1.001
+    2300276: robotic_arm Ramiona_dolne Rami__DR1.002
+    2300278: robotic_arm Ramiona_dolne Rami__DR1.003
+    2300280: robotic_arm Ramiona_dolne Rami__DR1.004
+    2300282: robotic_arm Ramiona_dolne Rami__DR1.005
+    2300284: robotic_arm Ramiona_G_rne Rami__DL
+    2300286: robotic_arm Ramiona_G_rne Rami__DL.001
+    2300288: robotic_arm Ramiona_G_rne Rami__DL.002
+    2300290: robotic_arm Ramiona_G_rne Rami__DL.003
+    2300292: robotic_arm Ramiona_G_rne Rami__DL.004
+    2300294: robotic_arm Ramiona_G_rne Rami__DL.005
+    2300296: robotic_arm Ramiona_G_rne Rami__DR
+    2300298: robotic_arm Ramiona_G_rne Rami__DR.001
+    2300300: robotic_arm Ramiona_G_rne Rami__DR.002
+    2300302: robotic_arm Ramiona_G_rne Rami__DR.003
+    2300304: robotic_arm Ramiona_G_rne Rami__DR.004
+    2300306: robotic_arm Ramiona_G_rne Rami__DR.005
+    2300308: robotic_arm Silnik1_1
+    2300310: robotic_arm Silnik1_1.001
+    2300312: robotic_arm Silnik1_1.002
+    2300314: robotic_arm Silnik1_1.003
+    2300316: robotic_arm Silnik1_1.004
+    2300318: robotic_arm Silnik1_1.005
+    2300320: robotic_arm Silnik2
+    2300322: robotic_arm Silnik2.001
+    2300324: robotic_arm Silnik2.002
+    2300326: robotic_arm Silnik2.003
+    2300328: robotic_arm Silnik2.004
+    2300330: robotic_arm Silnik2.005
+    2300332: robotic_arm Silnik2_1
+    2300334: robotic_arm Silnik2_1.001
+    2300336: robotic_arm Silnik2_1.002
+    2300338: robotic_arm Silnik2_1.003
+    2300340: robotic_arm Silnik2_1.004
+    2300342: robotic_arm Silnik2_1.005
+    2300344: robotic_arm Silnik3.001_MeshPart0
+    2300346: robotic_arm Silnik3.001_MeshPart1
+    2300348: robotic_arm Silnik3.002_MeshPart0
+    2300350: robotic_arm Silnik3.002_MeshPart1
+    2300352: robotic_arm Silnik3.003_MeshPart0
+    2300354: robotic_arm Silnik3.003_MeshPart1
+    2300356: robotic_arm Silnik3.004_MeshPart0
+    2300358: robotic_arm Silnik3.004_MeshPart1
+    2300360: robotic_arm Silnik3.005_MeshPart0
+    2300362: robotic_arm Silnik3.005_MeshPart1
+    2300364: robotic_arm Silnik3_MeshPart0
+    2300366: robotic_arm Silnik3_MeshPart1
+    2300368: robotic_arm Wa__ramion_DG
+    2300370: robotic_arm Wa__ramion_DG.001
+    2300372: robotic_arm Wa__ramion_DG.002
+    2300374: robotic_arm Wa__ramion_DG.003
+    2300376: robotic_arm Wa__ramion_DG.004
+    2300378: robotic_arm Wa__ramion_DG.005
+    2300380: robotic_arm Wa__ramion_DG.006
+    2300382: robotic_arm Wa__ramion_DG.007
+    2300384: robotic_arm Wa__ramion_DG.008
+    2300386: robotic_arm Wa__ramion_DG.009
+    2300388: robotic_arm Wa__ramion_DG.010
+    2300390: robotic_arm Wa__ramion_DG.011
+    3300000: Circle.001
+    3300002: Cylinder
+    3300004: Cylinder.001
+    3300006: Cylinder.002
+    3300008: Cylinder.003
+    3300010: Cylinder.004
+    3300012: Cylinder.005
+    3300014: Cylinder.006
+    3300016: Cylinder.007
+    3300018: Cylinder.008
+    3300020: Cylinder.009
+    3300022: Cylinder.010
+    3300024: Cylinder.011
+    3300026: Layer0_001
+    3300028: Layer0_001.001
+    3300030: Layer0_001.002
+    3300032: Plane003
+    3300034: Plane003.001
+    3300036: Plane003.002
+    3300038: robotic_arm Baza_chwytaka
+    3300040: robotic_arm Baza_chwytaka.001
+    3300042: robotic_arm Baza_chwytaka.002
+    3300044: robotic_arm Baza_chwytaka.003
+    3300046: robotic_arm Baza_chwytaka.004
+    3300048: robotic_arm Baza_chwytaka.005
+    3300050: robotic_arm cable Walec
+    3300052: robotic_arm cable Walec.001
+    3300054: robotic_arm cable Walec.002
+    3300056: robotic_arm cable Walec.003
+    3300058: robotic_arm cable Walec.004
+    3300060: robotic_arm cable Walec.005
+    3300062: robotic_arm Podstawa_nieruchoma.001_MeshPart0
+    3300064: robotic_arm Podstawa_nieruchoma.001_MeshPart1
+    3300066: robotic_arm Podstawa_nieruchoma.001_MeshPart2
+    3300068: robotic_arm Podstawa_nieruchoma.001_MeshPart3
+    3300070: robotic_arm Podstawa_nieruchoma.001_MeshPart4
+    3300072: robotic_arm Podstawa_nieruchoma.002_MeshPart0
+    3300074: robotic_arm Podstawa_nieruchoma.002_MeshPart1
+    3300076: robotic_arm Podstawa_nieruchoma.002_MeshPart2
+    3300078: robotic_arm Podstawa_nieruchoma.002_MeshPart3
+    3300080: robotic_arm Podstawa_nieruchoma.002_MeshPart4
+    3300082: robotic_arm Podstawa_nieruchoma.003_MeshPart0
+    3300084: robotic_arm Podstawa_nieruchoma.003_MeshPart1
+    3300086: robotic_arm Podstawa_nieruchoma.003_MeshPart2
+    3300088: robotic_arm Podstawa_nieruchoma.003_MeshPart3
+    3300090: robotic_arm Podstawa_nieruchoma.003_MeshPart4
+    3300092: robotic_arm Podstawa_ruchoma.001_MeshPart0
+    3300094: robotic_arm Podstawa_ruchoma.001_MeshPart1
+    3300096: robotic_arm Podstawa_ruchoma.001_MeshPart10
+    3300098: robotic_arm Podstawa_ruchoma.001_MeshPart11
+    3300100: robotic_arm Podstawa_ruchoma.001_MeshPart2
+    3300102: robotic_arm Podstawa_ruchoma.001_MeshPart3
+    3300104: robotic_arm Podstawa_ruchoma.001_MeshPart4
+    3300106: robotic_arm Podstawa_ruchoma.001_MeshPart5
+    3300108: robotic_arm Podstawa_ruchoma.001_MeshPart6
+    3300110: robotic_arm Podstawa_ruchoma.001_MeshPart7
+    3300112: robotic_arm Podstawa_ruchoma.001_MeshPart8
+    3300114: robotic_arm Podstawa_ruchoma.001_MeshPart9
+    3300116: robotic_arm Podstawa_ruchoma.002_MeshPart0
+    3300118: robotic_arm Podstawa_ruchoma.002_MeshPart1
+    3300120: robotic_arm Podstawa_ruchoma.002_MeshPart10
+    3300122: robotic_arm Podstawa_ruchoma.002_MeshPart11
+    3300124: robotic_arm Podstawa_ruchoma.002_MeshPart2
+    3300126: robotic_arm Podstawa_ruchoma.002_MeshPart3
+    3300128: robotic_arm Podstawa_ruchoma.002_MeshPart4
+    3300130: robotic_arm Podstawa_ruchoma.002_MeshPart5
+    3300132: robotic_arm Podstawa_ruchoma.002_MeshPart6
+    3300134: robotic_arm Podstawa_ruchoma.002_MeshPart7
+    3300136: robotic_arm Podstawa_ruchoma.002_MeshPart8
+    3300138: robotic_arm Podstawa_ruchoma.002_MeshPart9
+    3300140: robotic_arm Podstawa_ruchoma.003_MeshPart0
+    3300142: robotic_arm Podstawa_ruchoma.003_MeshPart1
+    3300144: robotic_arm Podstawa_ruchoma.003_MeshPart10
+    3300146: robotic_arm Podstawa_ruchoma.003_MeshPart11
+    3300148: robotic_arm Podstawa_ruchoma.003_MeshPart2
+    3300150: robotic_arm Podstawa_ruchoma.003_MeshPart3
+    3300152: robotic_arm Podstawa_ruchoma.003_MeshPart4
+    3300154: robotic_arm Podstawa_ruchoma.003_MeshPart5
+    3300156: robotic_arm Podstawa_ruchoma.003_MeshPart6
+    3300158: robotic_arm Podstawa_ruchoma.003_MeshPart7
+    3300160: robotic_arm Podstawa_ruchoma.003_MeshPart8
+    3300162: robotic_arm Podstawa_ruchoma.003_MeshPart9
+    3300164: robotic_arm Podstawa_ruchoma.004_MeshPart0
+    3300166: robotic_arm Podstawa_ruchoma.004_MeshPart1
+    3300168: robotic_arm Podstawa_ruchoma.004_MeshPart10
+    3300170: robotic_arm Podstawa_ruchoma.004_MeshPart11
+    3300172: robotic_arm Podstawa_ruchoma.004_MeshPart2
+    3300174: robotic_arm Podstawa_ruchoma.004_MeshPart3
+    3300176: robotic_arm Podstawa_ruchoma.004_MeshPart4
+    3300178: robotic_arm Podstawa_ruchoma.004_MeshPart5
+    3300180: robotic_arm Podstawa_ruchoma.004_MeshPart6
+    3300182: robotic_arm Podstawa_ruchoma.004_MeshPart7
+    3300184: robotic_arm Podstawa_ruchoma.004_MeshPart8
+    3300186: robotic_arm Podstawa_ruchoma.004_MeshPart9
+    3300188: robotic_arm Podstawa_ruchoma.005_MeshPart0
+    3300190: robotic_arm Podstawa_ruchoma.005_MeshPart1
+    3300192: robotic_arm Podstawa_ruchoma.005_MeshPart10
+    3300194: robotic_arm Podstawa_ruchoma.005_MeshPart11
+    3300196: robotic_arm Podstawa_ruchoma.005_MeshPart2
+    3300198: robotic_arm Podstawa_ruchoma.005_MeshPart3
+    3300200: robotic_arm Podstawa_ruchoma.005_MeshPart4
+    3300202: robotic_arm Podstawa_ruchoma.005_MeshPart5
+    3300204: robotic_arm Podstawa_ruchoma.005_MeshPart6
+    3300206: robotic_arm Podstawa_ruchoma.005_MeshPart7
+    3300208: robotic_arm Podstawa_ruchoma.005_MeshPart8
+    3300210: robotic_arm Podstawa_ruchoma.005_MeshPart9
+    3300212: robotic_arm Podstawa_ruchoma_MeshPart0
+    3300214: robotic_arm Podstawa_ruchoma_MeshPart1
+    3300216: robotic_arm Podstawa_ruchoma_MeshPart10
+    3300218: robotic_arm Podstawa_ruchoma_MeshPart11
+    3300220: robotic_arm Podstawa_ruchoma_MeshPart2
+    3300222: robotic_arm Podstawa_ruchoma_MeshPart3
+    3300224: robotic_arm Podstawa_ruchoma_MeshPart4
+    3300226: robotic_arm Podstawa_ruchoma_MeshPart5
+    3300228: robotic_arm Podstawa_ruchoma_MeshPart6
+    3300230: robotic_arm Podstawa_ruchoma_MeshPart7
+    3300232: robotic_arm Podstawa_ruchoma_MeshPart8
+    3300234: robotic_arm Podstawa_ruchoma_MeshPart9
+    3300236: robotic_arm Rami__chwytaka_L
+    3300238: robotic_arm Rami__chwytaka_L.001
+    3300240: robotic_arm Rami__chwytaka_L.002
+    3300242: robotic_arm Rami__chwytaka_L.003
+    3300244: robotic_arm Rami__chwytaka_L.004
+    3300246: robotic_arm Rami__chwytaka_L.005
+    3300248: robotic_arm Rami__chwytaka_R
+    3300250: robotic_arm Rami__chwytaka_R.001
+    3300252: robotic_arm Rami__chwytaka_R.002
+    3300254: robotic_arm Rami__chwytaka_R.003
+    3300256: robotic_arm Rami__chwytaka_R.004
+    3300258: robotic_arm Rami__chwytaka_R.005
+    3300260: robotic_arm Ramiona_dolne Rami__DL1
+    3300262: robotic_arm Ramiona_dolne Rami__DL1.001
+    3300264: robotic_arm Ramiona_dolne Rami__DL1.002
+    3300266: robotic_arm Ramiona_dolne Rami__DL1.003
+    3300268: robotic_arm Ramiona_dolne Rami__DL1.004
+    3300270: robotic_arm Ramiona_dolne Rami__DL1.005
+    3300272: robotic_arm Ramiona_dolne Rami__DR1
+    3300274: robotic_arm Ramiona_dolne Rami__DR1.001
+    3300276: robotic_arm Ramiona_dolne Rami__DR1.002
+    3300278: robotic_arm Ramiona_dolne Rami__DR1.003
+    3300280: robotic_arm Ramiona_dolne Rami__DR1.004
+    3300282: robotic_arm Ramiona_dolne Rami__DR1.005
+    3300284: robotic_arm Ramiona_G_rne Rami__DL
+    3300286: robotic_arm Ramiona_G_rne Rami__DL.001
+    3300288: robotic_arm Ramiona_G_rne Rami__DL.002
+    3300290: robotic_arm Ramiona_G_rne Rami__DL.003
+    3300292: robotic_arm Ramiona_G_rne Rami__DL.004
+    3300294: robotic_arm Ramiona_G_rne Rami__DL.005
+    3300296: robotic_arm Ramiona_G_rne Rami__DR
+    3300298: robotic_arm Ramiona_G_rne Rami__DR.001
+    3300300: robotic_arm Ramiona_G_rne Rami__DR.002
+    3300302: robotic_arm Ramiona_G_rne Rami__DR.003
+    3300304: robotic_arm Ramiona_G_rne Rami__DR.004
+    3300306: robotic_arm Ramiona_G_rne Rami__DR.005
+    3300308: robotic_arm Silnik1_1
+    3300310: robotic_arm Silnik1_1.001
+    3300312: robotic_arm Silnik1_1.002
+    3300314: robotic_arm Silnik1_1.003
+    3300316: robotic_arm Silnik1_1.004
+    3300318: robotic_arm Silnik1_1.005
+    3300320: robotic_arm Silnik2
+    3300322: robotic_arm Silnik2.001
+    3300324: robotic_arm Silnik2.002
+    3300326: robotic_arm Silnik2.003
+    3300328: robotic_arm Silnik2.004
+    3300330: robotic_arm Silnik2.005
+    3300332: robotic_arm Silnik2_1
+    3300334: robotic_arm Silnik2_1.001
+    3300336: robotic_arm Silnik2_1.002
+    3300338: robotic_arm Silnik2_1.003
+    3300340: robotic_arm Silnik2_1.004
+    3300342: robotic_arm Silnik2_1.005
+    3300344: robotic_arm Silnik3.001_MeshPart0
+    3300346: robotic_arm Silnik3.001_MeshPart1
+    3300348: robotic_arm Silnik3.002_MeshPart0
+    3300350: robotic_arm Silnik3.002_MeshPart1
+    3300352: robotic_arm Silnik3.003_MeshPart0
+    3300354: robotic_arm Silnik3.003_MeshPart1
+    3300356: robotic_arm Silnik3.004_MeshPart0
+    3300358: robotic_arm Silnik3.004_MeshPart1
+    3300360: robotic_arm Silnik3.005_MeshPart0
+    3300362: robotic_arm Silnik3.005_MeshPart1
+    3300364: robotic_arm Silnik3_MeshPart0
+    3300366: robotic_arm Silnik3_MeshPart1
+    3300368: robotic_arm Wa__ramion_DG
+    3300370: robotic_arm Wa__ramion_DG.001
+    3300372: robotic_arm Wa__ramion_DG.002
+    3300374: robotic_arm Wa__ramion_DG.003
+    3300376: robotic_arm Wa__ramion_DG.004
+    3300378: robotic_arm Wa__ramion_DG.005
+    3300380: robotic_arm Wa__ramion_DG.006
+    3300382: robotic_arm Wa__ramion_DG.007
+    3300384: robotic_arm Wa__ramion_DG.008
+    3300386: robotic_arm Wa__ramion_DG.009
+    3300388: robotic_arm Wa__ramion_DG.010
+    3300390: robotic_arm Wa__ramion_DG.011
+    4300000: Plane003.002
+    4300002: Plane003.001
+    4300004: Plane003
+    4300006: robotic_arm Rami__chwytaka_R.005
+    4300008: robotic_arm cable Walec.005
+    4300010: robotic_arm Ramiona_G_rne Rami__DR.005
+    4300012: robotic_arm Rami__chwytaka_L.005
+    4300014: robotic_arm Silnik3.005_MeshPart0
+    4300016: robotic_arm Silnik3.005_MeshPart1
+    4300018: robotic_arm Silnik2.005
+    4300020: robotic_arm Ramiona_dolne Rami__DR1.005
+    4300022: robotic_arm Podstawa_nieruchoma.003_MeshPart0
+    4300024: robotic_arm Podstawa_nieruchoma.003_MeshPart1
+    4300026: robotic_arm Podstawa_nieruchoma.003_MeshPart2
+    4300028: robotic_arm Podstawa_nieruchoma.003_MeshPart3
+    4300030: robotic_arm Podstawa_nieruchoma.003_MeshPart4
+    4300032: robotic_arm Baza_chwytaka.005
+    4300034: robotic_arm Podstawa_ruchoma.005_MeshPart0
+    4300036: robotic_arm Podstawa_ruchoma.005_MeshPart1
+    4300038: robotic_arm Podstawa_ruchoma.005_MeshPart2
+    4300040: robotic_arm Podstawa_ruchoma.005_MeshPart3
+    4300042: robotic_arm Podstawa_ruchoma.005_MeshPart4
+    4300044: robotic_arm Podstawa_ruchoma.005_MeshPart5
+    4300046: robotic_arm Podstawa_ruchoma.005_MeshPart6
+    4300048: robotic_arm Podstawa_ruchoma.005_MeshPart7
+    4300050: robotic_arm Podstawa_ruchoma.005_MeshPart8
+    4300052: robotic_arm Podstawa_ruchoma.005_MeshPart9
+    4300054: robotic_arm Podstawa_ruchoma.005_MeshPart10
+    4300056: robotic_arm Podstawa_ruchoma.005_MeshPart11
+    4300058: robotic_arm Ramiona_G_rne Rami__DL.005
+    4300060: robotic_arm Silnik2_1.005
+    4300062: robotic_arm Ramiona_dolne Rami__DL1.005
+    4300064: robotic_arm Silnik1_1.005
+    4300066: robotic_arm Wa__ramion_DG.011
+    4300068: robotic_arm Wa__ramion_DG.010
+    4300070: Cylinder.011
+    4300072: Cylinder.010
+    4300074: Cylinder.009
+    4300076: Layer0_001.002
+    4300078: robotic_arm Wa__ramion_DG.009
+    4300080: robotic_arm Wa__ramion_DG.008
+    4300082: robotic_arm Silnik1_1.004
+    4300084: robotic_arm Ramiona_dolne Rami__DL1.004
+    4300086: robotic_arm Silnik2_1.004
+    4300088: robotic_arm Ramiona_G_rne Rami__DL.004
+    4300090: robotic_arm Podstawa_ruchoma.004_MeshPart0
+    4300092: robotic_arm Podstawa_ruchoma.004_MeshPart1
+    4300094: robotic_arm Podstawa_ruchoma.004_MeshPart2
+    4300096: robotic_arm Podstawa_ruchoma.004_MeshPart3
+    4300098: robotic_arm Podstawa_ruchoma.004_MeshPart4
+    4300100: robotic_arm Podstawa_ruchoma.004_MeshPart5
+    4300102: robotic_arm Podstawa_ruchoma.004_MeshPart6
+    4300104: robotic_arm Podstawa_ruchoma.004_MeshPart7
+    4300106: robotic_arm Podstawa_ruchoma.004_MeshPart8
+    4300108: robotic_arm Podstawa_ruchoma.004_MeshPart9
+    4300110: robotic_arm Podstawa_ruchoma.004_MeshPart10
+    4300112: robotic_arm Podstawa_ruchoma.004_MeshPart11
+    4300114: robotic_arm Baza_chwytaka.004
+    4300116: robotic_arm Ramiona_dolne Rami__DR1.004
+    4300118: robotic_arm Silnik2.004
+    4300120: robotic_arm Silnik3.004_MeshPart0
+    4300122: robotic_arm Silnik3.004_MeshPart1
+    4300124: robotic_arm Rami__chwytaka_L.004
+    4300126: robotic_arm Ramiona_G_rne Rami__DR.004
+    4300128: robotic_arm cable Walec.004
+    4300130: robotic_arm Rami__chwytaka_R.004
+    4300132: Cylinder.008
+    4300134: Cylinder.007
+    4300136: robotic_arm Rami__chwytaka_R.003
+    4300138: robotic_arm cable Walec.003
+    4300140: robotic_arm Ramiona_G_rne Rami__DR.003
+    4300142: robotic_arm Rami__chwytaka_L.003
+    4300144: robotic_arm Silnik3.003_MeshPart0
+    4300146: robotic_arm Silnik3.003_MeshPart1
+    4300148: robotic_arm Silnik2.003
+    4300150: robotic_arm Ramiona_dolne Rami__DR1.003
+    4300152: robotic_arm Baza_chwytaka.003
+    4300154: robotic_arm Podstawa_ruchoma.003_MeshPart0
+    4300156: robotic_arm Podstawa_ruchoma.003_MeshPart1
+    4300158: robotic_arm Podstawa_ruchoma.003_MeshPart2
+    4300160: robotic_arm Podstawa_ruchoma.003_MeshPart3
+    4300162: robotic_arm Podstawa_ruchoma.003_MeshPart4
+    4300164: robotic_arm Podstawa_ruchoma.003_MeshPart5
+    4300166: robotic_arm Podstawa_ruchoma.003_MeshPart6
+    4300168: robotic_arm Podstawa_ruchoma.003_MeshPart7
+    4300170: robotic_arm Podstawa_ruchoma.003_MeshPart8
+    4300172: robotic_arm Podstawa_ruchoma.003_MeshPart9
+    4300174: robotic_arm Podstawa_ruchoma.003_MeshPart10
+    4300176: robotic_arm Podstawa_ruchoma.003_MeshPart11
+    4300178: robotic_arm Ramiona_G_rne Rami__DL.003
+    4300180: robotic_arm Silnik2_1.003
+    4300182: robotic_arm Ramiona_dolne Rami__DL1.003
+    4300184: robotic_arm Silnik1_1.003
+    4300186: robotic_arm Wa__ramion_DG.007
+    4300188: robotic_arm Wa__ramion_DG.006
+    4300190: Layer0_001.001
+    4300192: Cylinder.006
+    4300194: Cylinder.005
+    4300196: Cylinder.004
+    4300198: robotic_arm Wa__ramion_DG.005
+    4300200: robotic_arm Wa__ramion_DG.004
+    4300202: robotic_arm Silnik1_1.002
+    4300204: robotic_arm Ramiona_dolne Rami__DL1.002
+    4300206: robotic_arm Silnik2_1.002
+    4300208: robotic_arm Ramiona_G_rne Rami__DL.002
+    4300210: robotic_arm Podstawa_ruchoma.002_MeshPart0
+    4300212: robotic_arm Podstawa_ruchoma.002_MeshPart1
+    4300214: robotic_arm Podstawa_ruchoma.002_MeshPart2
+    4300216: robotic_arm Podstawa_ruchoma.002_MeshPart3
+    4300218: robotic_arm Podstawa_ruchoma.002_MeshPart4
+    4300220: robotic_arm Podstawa_ruchoma.002_MeshPart5
+    4300222: robotic_arm Podstawa_ruchoma.002_MeshPart6
+    4300224: robotic_arm Podstawa_ruchoma.002_MeshPart7
+    4300226: robotic_arm Podstawa_ruchoma.002_MeshPart8
+    4300228: robotic_arm Podstawa_ruchoma.002_MeshPart9
+    4300230: robotic_arm Podstawa_ruchoma.002_MeshPart10
+    4300232: robotic_arm Podstawa_ruchoma.002_MeshPart11
+    4300234: robotic_arm Baza_chwytaka.002
+    4300236: robotic_arm Podstawa_nieruchoma.002_MeshPart0
+    4300238: robotic_arm Podstawa_nieruchoma.002_MeshPart1
+    4300240: robotic_arm Podstawa_nieruchoma.002_MeshPart2
+    4300242: robotic_arm Podstawa_nieruchoma.002_MeshPart3
+    4300244: robotic_arm Podstawa_nieruchoma.002_MeshPart4
+    4300246: robotic_arm Ramiona_dolne Rami__DR1.002
+    4300248: robotic_arm Silnik2.002
+    4300250: robotic_arm Silnik3.002_MeshPart0
+    4300252: robotic_arm Silnik3.002_MeshPart1
+    4300254: robotic_arm Rami__chwytaka_L.002
+    4300256: robotic_arm Ramiona_G_rne Rami__DR.002
+    4300258: robotic_arm cable Walec.002
+    4300260: robotic_arm Rami__chwytaka_R.002
+    4300262: robotic_arm Rami__chwytaka_R.001
+    4300264: robotic_arm cable Walec.001
+    4300266: robotic_arm Ramiona_G_rne Rami__DR.001
+    4300268: robotic_arm Rami__chwytaka_L.001
+    4300270: robotic_arm Silnik3.001_MeshPart0
+    4300272: robotic_arm Silnik3.001_MeshPart1
+    4300274: robotic_arm Silnik2.001
+    4300276: robotic_arm Ramiona_dolne Rami__DR1.001
+    4300278: robotic_arm Podstawa_nieruchoma.001_MeshPart0
+    4300280: robotic_arm Podstawa_nieruchoma.001_MeshPart1
+    4300282: robotic_arm Podstawa_nieruchoma.001_MeshPart2
+    4300284: robotic_arm Podstawa_nieruchoma.001_MeshPart3
+    4300286: robotic_arm Podstawa_nieruchoma.001_MeshPart4
+    4300288: robotic_arm Baza_chwytaka.001
+    4300290: robotic_arm Podstawa_ruchoma.001_MeshPart0
+    4300292: robotic_arm Podstawa_ruchoma.001_MeshPart1
+    4300294: robotic_arm Podstawa_ruchoma.001_MeshPart2
+    4300296: robotic_arm Podstawa_ruchoma.001_MeshPart3
+    4300298: robotic_arm Podstawa_ruchoma.001_MeshPart4
+    4300300: robotic_arm Podstawa_ruchoma.001_MeshPart5
+    4300302: robotic_arm Podstawa_ruchoma.001_MeshPart6
+    4300304: robotic_arm Podstawa_ruchoma.001_MeshPart7
+    4300306: robotic_arm Podstawa_ruchoma.001_MeshPart8
+    4300308: robotic_arm Podstawa_ruchoma.001_MeshPart9
+    4300310: robotic_arm Podstawa_ruchoma.001_MeshPart10
+    4300312: robotic_arm Podstawa_ruchoma.001_MeshPart11
+    4300314: robotic_arm Ramiona_G_rne Rami__DL.001
+    4300316: robotic_arm Silnik2_1.001
+    4300318: robotic_arm Ramiona_dolne Rami__DL1.001
+    4300320: robotic_arm Silnik1_1.001
+    4300322: robotic_arm Wa__ramion_DG.003
+    4300324: robotic_arm Wa__ramion_DG.002
+    4300326: Cylinder.003
+    4300328: Cylinder.002
+    4300330: Cylinder.001
+    4300332: Layer0_001
+    4300334: robotic_arm Wa__ramion_DG.001
+    4300336: robotic_arm Wa__ramion_DG
+    4300338: robotic_arm Silnik1_1
+    4300340: robotic_arm Ramiona_dolne Rami__DL1
+    4300342: robotic_arm Silnik2_1
+    4300344: robotic_arm Ramiona_G_rne Rami__DL
+    4300346: robotic_arm Podstawa_ruchoma_MeshPart0
+    4300348: robotic_arm Podstawa_ruchoma_MeshPart1
+    4300350: robotic_arm Podstawa_ruchoma_MeshPart2
+    4300352: robotic_arm Podstawa_ruchoma_MeshPart3
+    4300354: robotic_arm Podstawa_ruchoma_MeshPart4
+    4300356: robotic_arm Podstawa_ruchoma_MeshPart5
+    4300358: robotic_arm Podstawa_ruchoma_MeshPart6
+    4300360: robotic_arm Podstawa_ruchoma_MeshPart7
+    4300362: robotic_arm Podstawa_ruchoma_MeshPart8
+    4300364: robotic_arm Podstawa_ruchoma_MeshPart9
+    4300366: robotic_arm Podstawa_ruchoma_MeshPart10
+    4300368: robotic_arm Podstawa_ruchoma_MeshPart11
+    4300370: robotic_arm Baza_chwytaka
+    4300372: robotic_arm Ramiona_dolne Rami__DR1
+    4300374: robotic_arm Silnik2
+    4300376: robotic_arm Silnik3_MeshPart0
+    4300378: robotic_arm Silnik3_MeshPart1
+    4300380: robotic_arm Rami__chwytaka_L
+    4300382: robotic_arm Ramiona_G_rne Rami__DR
+    4300384: robotic_arm cable Walec
+    4300386: robotic_arm Rami__chwytaka_R
+    4300388: Cylinder
+    4300390: Circle.001
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
