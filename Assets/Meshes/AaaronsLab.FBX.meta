@@ -625,6 +625,21 @@ ModelImporter:
     2300386: robotic_arm Wa__ramion_DG.009
     2300388: robotic_arm Wa__ramion_DG.010
     2300390: robotic_arm Wa__ramion_DG.011
+    2300392: robotic_arm Podstawa_nieruchoma.001
+    2300394: robotic_arm Podstawa_nieruchoma.002
+    2300396: robotic_arm Podstawa_nieruchoma.003
+    2300398: robotic_arm Podstawa_ruchoma
+    2300400: robotic_arm Podstawa_ruchoma.001
+    2300402: robotic_arm Podstawa_ruchoma.002
+    2300404: robotic_arm Podstawa_ruchoma.003
+    2300406: robotic_arm Podstawa_ruchoma.004
+    2300408: robotic_arm Podstawa_ruchoma.005
+    2300410: robotic_arm Silnik3
+    2300412: robotic_arm Silnik3.001
+    2300414: robotic_arm Silnik3.002
+    2300416: robotic_arm Silnik3.003
+    2300418: robotic_arm Silnik3.004
+    2300420: robotic_arm Silnik3.005
     3300000: Circle.001
     3300002: Cylinder
     3300004: Cylinder.001
@@ -821,6 +836,21 @@ ModelImporter:
     3300386: robotic_arm Wa__ramion_DG.009
     3300388: robotic_arm Wa__ramion_DG.010
     3300390: robotic_arm Wa__ramion_DG.011
+    3300392: robotic_arm Podstawa_nieruchoma.001
+    3300394: robotic_arm Podstawa_nieruchoma.002
+    3300396: robotic_arm Podstawa_nieruchoma.003
+    3300398: robotic_arm Podstawa_ruchoma
+    3300400: robotic_arm Podstawa_ruchoma.001
+    3300402: robotic_arm Podstawa_ruchoma.002
+    3300404: robotic_arm Podstawa_ruchoma.003
+    3300406: robotic_arm Podstawa_ruchoma.004
+    3300408: robotic_arm Podstawa_ruchoma.005
+    3300410: robotic_arm Silnik3
+    3300412: robotic_arm Silnik3.001
+    3300414: robotic_arm Silnik3.002
+    3300416: robotic_arm Silnik3.003
+    3300418: robotic_arm Silnik3.004
+    3300420: robotic_arm Silnik3.005
     4300000: Plane003.002
     4300002: Plane003.001
     4300004: Plane003
@@ -1017,6 +1047,21 @@ ModelImporter:
     4300386: robotic_arm Rami__chwytaka_R
     4300388: Cylinder
     4300390: Circle.001
+    4300392: robotic_arm Silnik3.005
+    4300394: robotic_arm Podstawa_nieruchoma.003
+    4300396: robotic_arm Podstawa_ruchoma.005
+    4300398: robotic_arm Podstawa_ruchoma.004
+    4300400: robotic_arm Silnik3.004
+    4300402: robotic_arm Silnik3.003
+    4300404: robotic_arm Podstawa_ruchoma.003
+    4300406: robotic_arm Podstawa_ruchoma.002
+    4300408: robotic_arm Podstawa_nieruchoma.002
+    4300410: robotic_arm Silnik3.002
+    4300412: robotic_arm Silnik3.001
+    4300414: robotic_arm Podstawa_nieruchoma.001
+    4300416: robotic_arm Podstawa_ruchoma.001
+    4300418: robotic_arm Podstawa_ruchoma
+    4300420: robotic_arm Silnik3
     7400000: Take 001
     9500000: //RootNode
   materials:
@@ -1077,7 +1122,7 @@ ModelImporter:
     rootMotionBoneName: 
     hasTranslationDoF: 0
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  animationType: 2
+  animationType: 0
   humanoidOversampling: 1
   additionalBone: 0
   userData: 
