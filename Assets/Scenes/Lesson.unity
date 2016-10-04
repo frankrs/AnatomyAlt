@@ -1959,7 +1959,7 @@ Transform:
   m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: -0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: -359.092, z: 0}
   m_Children:
   - {fileID: 734490383}
   - {fileID: 1961378039}
@@ -7190,7 +7190,7 @@ Transform:
   m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: -0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: -360, z: 0}
   m_Children:
   - {fileID: 317880040}
   m_Father: {fileID: 1910657530}
@@ -16918,7 +16918,7 @@ Transform:
   m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: -0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: -142.13153, z: 0}
   m_Children:
   - {fileID: 815819967}
   - {fileID: 18466416}
@@ -27048,7 +27048,7 @@ Transform:
   m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: -0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: -315.57785, z: 0}
   m_Children:
   - {fileID: 1087272963}
   - {fileID: 1571942875}
@@ -32523,6 +32523,12 @@ Animation:
   m_Animations:
   - {fileID: 7400000, guid: cb6e7a8b0fde879458325f18b0249458, type: 2}
   - {fileID: 7400000, guid: 302e9a7d76c1db44ca6ed21d83ec2a6a, type: 2}
+  - {fileID: 7400000, guid: 9a64b505148696a4d81a93ff62fe7cdc, type: 2}
+  - {fileID: 7400000, guid: 58a0922639ac28848a23577f78bd965c, type: 2}
+  - {fileID: 7400000, guid: d231d4bea294fef47b6b26b26052c9d0, type: 2}
+  - {fileID: 7400000, guid: d12abf219f48a8143813e8d6db6fe553, type: 2}
+  - {fileID: 7400000, guid: 5e5435d346684b24ea45ef9156d8cca0, type: 2}
+  - {fileID: 7400000, guid: 300782ad8bc61884980f6267d9d91706, type: 2}
   m_WrapMode: 0
   m_PlayAutomatically: 1
   m_AnimatePhysics: 0
