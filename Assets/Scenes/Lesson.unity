@@ -1943,6 +1943,8 @@ GameObject:
   serializedVersion: 4
   m_Component:
   - 4: {fileID: 104951853}
+  - 114: {fileID: 104951855}
+  - 114: {fileID: 104951854}
   m_Layer: 0
   m_Name: Urinary_Sys
   m_TagString: Untagged
@@ -1959,7 +1961,7 @@ Transform:
   m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: -0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
-  m_LocalEulerAnglesHint: {x: 0, y: -359.092, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_Children:
   - {fileID: 734490383}
   - {fileID: 1961378039}
@@ -1971,6 +1973,47 @@ Transform:
   - {fileID: 1552696686}
   m_Father: {fileID: 1910657530}
   m_RootOrder: 12
+--- !u!114 &104951854
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 104951852}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e7b891d242daada4cb7fc4837661112b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &104951855
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 104951852}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 17e2d7a39f2f5b849885a286c13dfb13, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  introClip: {fileID: 0}
+  animations:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 7400000, guid: 58a0922639ac28848a23577f78bd965c, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  tranAnimations:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 7400000, guid: 008be7a68d05c214bbbd3d25acea64be, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
 --- !u!1 &108497880
 GameObject:
   m_ObjectHideFlags: 0
@@ -13810,6 +13853,8 @@ GameObject:
   serializedVersion: 4
   m_Component:
   - 4: {fileID: 837842377}
+  - 114: {fileID: 837842379}
+  - 114: {fileID: 837842378}
   m_Layer: 0
   m_Name: Digestive_Sys
   m_TagString: Untagged
@@ -13838,6 +13883,47 @@ Transform:
   - {fileID: 1588409979}
   m_Father: {fileID: 1910657530}
   m_RootOrder: 2
+--- !u!114 &837842378
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 837842376}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e7b891d242daada4cb7fc4837661112b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &837842379
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 837842376}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 17e2d7a39f2f5b849885a286c13dfb13, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  introClip: {fileID: 0}
+  animations:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 7400000, guid: 5e5435d346684b24ea45ef9156d8cca0, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  tranAnimations:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 7400000, guid: ccf6fa2db8190b04383e94d104e0b264, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
 --- !u!1 &842682071
 GameObject:
   m_ObjectHideFlags: 0
@@ -19883,6 +19969,9 @@ GameObject:
   - 4: {fileID: 1109738251}
   - 33: {fileID: 1109738253}
   - 23: {fileID: 1109738252}
+  - 111: {fileID: 1109738256}
+  - 114: {fileID: 1109738255}
+  - 114: {fileID: 1109738254}
   m_Layer: 0
   m_Name: Body
   m_TagString: Untagged
@@ -19941,6 +20030,63 @@ MeshFilter:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1109738250}
   m_Mesh: {fileID: 4300136, guid: af1381f6a913ba94795be265aff1c365, type: 3}
+--- !u!114 &1109738254
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1109738250}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e7b891d242daada4cb7fc4837661112b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &1109738255
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1109738250}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 17e2d7a39f2f5b849885a286c13dfb13, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  introClip: {fileID: 0}
+  animations:
+  - {fileID: 7400000, guid: cb6e7a8b0fde879458325f18b0249458, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  tranAnimations:
+  - {fileID: 7400000, guid: 763b9822bbd731d44b9960c71eb37df4, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+--- !u!111 &1109738256
+Animation:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1109738250}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Animation: {fileID: 0}
+  m_Animations:
+  - {fileID: 7400000, guid: cb6e7a8b0fde879458325f18b0249458, type: 2}
+  - {fileID: 7400000, guid: 763b9822bbd731d44b9960c71eb37df4, type: 2}
+  m_WrapMode: 0
+  m_PlayAutomatically: 1
+  m_AnimatePhysics: 0
+  m_CullingType: 0
 --- !u!1 &1110006874
 GameObject:
   m_ObjectHideFlags: 0
@@ -20031,7 +20177,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1111752614}
   m_LocalRotation: {x: 0.0039725034, y: 0.27350062, z: 0.013636674, w: 0.961767}
-  m_LocalPosition: {x: 0, y: 1.788, z: 0}
+  m_LocalPosition: {x: 0, y: 1.788, z: 1.067}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_LocalEulerAnglesHint: {x: 0.010000001, y: 31.838001, z: 1.58}
   m_Children: []
@@ -21122,7 +21268,7 @@ Transform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
-  m_LocalEulerAnglesHint: {x: 0, y: -359.83, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: -360, z: 0}
   m_Children:
   - {fileID: 1569477120}
   - {fileID: 1593418136}
@@ -21161,7 +21307,15 @@ MonoBehaviour:
   - {fileID: 0}
   - {fileID: 0}
   - {fileID: 0}
-  tranAnimations: []
+  tranAnimations:
+  - {fileID: 0}
+  - {fileID: 7400000, guid: 4bee568ba24788945966ee21d76bdc1f, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
 --- !u!1 &1165295333
 GameObject:
   m_ObjectHideFlags: 0
@@ -22666,7 +22820,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1266563371}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: 2.08, z: 0.961}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_Children: []
@@ -32529,6 +32683,9 @@ Animation:
   - {fileID: 7400000, guid: d12abf219f48a8143813e8d6db6fe553, type: 2}
   - {fileID: 7400000, guid: 5e5435d346684b24ea45ef9156d8cca0, type: 2}
   - {fileID: 7400000, guid: 300782ad8bc61884980f6267d9d91706, type: 2}
+  - {fileID: 7400000, guid: 4bee568ba24788945966ee21d76bdc1f, type: 2}
+  - {fileID: 7400000, guid: ccf6fa2db8190b04383e94d104e0b264, type: 2}
+  - {fileID: 7400000, guid: 008be7a68d05c214bbbd3d25acea64be, type: 2}
   m_WrapMode: 0
   m_PlayAutomatically: 1
   m_AnimatePhysics: 0
@@ -33826,7 +33983,8 @@ MonoBehaviour:
     uiTransform: {fileID: 1266563372}
     activeObjects:
     - {fileID: 1109738250}
-    activeTransitionObjects: []
+    activeTransitionObjects:
+    - {fileID: 1109738250}
   - itemName: 
     lecture: 
     question: 
@@ -33834,11 +33992,12 @@ MonoBehaviour:
     answerGiven: 
     isCorrect: 0
     answerTime: 0
-    uiTransform: {fileID: 0}
+    uiTransform: {fileID: 1266563372}
     activeObjects:
     - {fileID: 2115149332}
     - {fileID: 1160430499}
-    activeTransitionObjects: []
+    activeTransitionObjects:
+    - {fileID: 1160430499}
   - itemName: 
     lecture: 
     question: 
@@ -33846,7 +34005,31 @@ MonoBehaviour:
     answerGiven: 
     isCorrect: 0
     answerTime: 0
-    uiTransform: {fileID: 0}
+    uiTransform: {fileID: 1266563372}
+    activeObjects:
+    - {fileID: 837842376}
+    activeTransitionObjects:
+    - {fileID: 837842376}
+  - itemName: 
+    lecture: 
+    question: 
+    answer: 
+    answerGiven: 
+    isCorrect: 0
+    answerTime: 0
+    uiTransform: {fileID: 1266563372}
+    activeObjects:
+    - {fileID: 104951852}
+    activeTransitionObjects:
+    - {fileID: 104951852}
+  - itemName: 
+    lecture: 
+    question: 
+    answer: 
+    answerGiven: 
+    isCorrect: 0
+    answerTime: 0
+    uiTransform: {fileID: 1266563372}
     activeObjects: []
     activeTransitionObjects: []
   - itemName: 
@@ -33856,7 +34039,7 @@ MonoBehaviour:
     answerGiven: 
     isCorrect: 0
     answerTime: 0
-    uiTransform: {fileID: 0}
+    uiTransform: {fileID: 1266563372}
     activeObjects: []
     activeTransitionObjects: []
   - itemName: 
@@ -33866,7 +34049,7 @@ MonoBehaviour:
     answerGiven: 
     isCorrect: 0
     answerTime: 0
-    uiTransform: {fileID: 0}
+    uiTransform: {fileID: 1266563372}
     activeObjects: []
     activeTransitionObjects: []
   - itemName: 
@@ -33876,27 +34059,7 @@ MonoBehaviour:
     answerGiven: 
     isCorrect: 0
     answerTime: 0
-    uiTransform: {fileID: 0}
-    activeObjects: []
-    activeTransitionObjects: []
-  - itemName: 
-    lecture: 
-    question: 
-    answer: 
-    answerGiven: 
-    isCorrect: 0
-    answerTime: 0
-    uiTransform: {fileID: 0}
-    activeObjects: []
-    activeTransitionObjects: []
-  - itemName: 
-    lecture: 
-    question: 
-    answer: 
-    answerGiven: 
-    isCorrect: 0
-    answerTime: 0
-    uiTransform: {fileID: 0}
+    uiTransform: {fileID: 1266563372}
     activeObjects: []
     activeTransitionObjects: []
   cameraMovement:
